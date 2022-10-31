@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @liabosh
+- 👀 I’m interested in Data science
